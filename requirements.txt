@@ -1,0 +1,5 @@
+Keras==2.4.3
+opencv_python==4.3.0.36
+tf_explain==0.2.1
+numpy==1.18.1
+streamlit==0.67.1
